@@ -1,1 +1,2 @@
 Learing GIT tool
+Changes in remote repositroy
